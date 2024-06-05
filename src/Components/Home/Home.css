@@ -1,0 +1,27 @@
+.main3{
+    margin-top: 69px;
+    margin-bottom: 69px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h5{
+    margin-top: 15px;
+    color: gray;
+}
+
+.btn3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    background-color: #f3b01b;
+    color: white;
+    border-radius: 30px;
+    padding: 8px 25px;
+    display: inline-block;
+    transition: all .4s;
+}
