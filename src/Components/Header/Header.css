@@ -34,10 +34,18 @@ li{
     display: flex;
   }
 
+  .img1{
+    height: 504px;
+  }
+
   header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
   }
 
